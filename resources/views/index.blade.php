@@ -197,7 +197,7 @@
                     <div id="image-area">
                         <img src="{{ URL::asset('images/resume_pic.jpg') }}" alt="resume">
                     </div>
-                    <h2>My name is Brian Hornbrook and I'm passionate about what programming can do!</h2>
+                    <h2>I'm Brian Hornbrook, a passionate programmer dedicated to leveraging coding to create impactful solutions.</h2>
                     <h3>One day I tried out programming and built a simple pong game using a web
                         program that was very similar to Python. I immediately fell in love with
                         building using logic.</h3>
