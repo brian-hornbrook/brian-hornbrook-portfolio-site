@@ -202,9 +202,9 @@
                         program that was very similar to Python. I immediately fell in love with
                         building using logic.</h3>
                     <p>
-                        When I go on vacation I like to plan out where we are going and where to
-                        stay. For example, we can stay in the nicest hotel for the price instead
-                        of staying at the first hotel we find.
+                        When I go on vacation, I like to approach it like writing a well-structured program. I plan out our route and
+                        accommodations ahead of time, optimizing for the best value rather than just accepting the default. It's like
+                        searching for the most efficient algorithm instead of running the first one that compiles.
                     </p>
                     <p id="message">
                         <strong>Can't wait to see what we build together!</strong>
