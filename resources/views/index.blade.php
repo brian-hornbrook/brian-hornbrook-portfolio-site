@@ -218,7 +218,7 @@
             <h2>Let's Connect</h2>
             <div id="footer-info-area">
                 <div class="footer-info">
-                    <h3>Hire Me</h3>
+                    <h3>Contact Info</h3>
                     <a id="call" href="tel:8172534571"><p>817-253-4571</p></a>
                     <p id="phone">817-253-4571</p>
                     <a href="mailto:brian_hornbrook@outlook.com">
@@ -240,9 +240,6 @@
                     </div>
                 </div>
             </div>
-
-            <p>Copyright 2022<span>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>Brian Hornbrook</p>
-
         </footer>
     </main>
 </body>
