@@ -26,7 +26,7 @@
         </nav>
         <div id="header-info">
             <h1>Hi there, I'm Brian Hornbrook</h1>
-            <h2>I'm a DevOps and Full Stack Engineer who polishes all code</h2>
+            <h2>I'm a DevOps and Full Stack Engineer dedicated to delivering high-quality, optimized code.</h2>
         </div>
     </header>
 
